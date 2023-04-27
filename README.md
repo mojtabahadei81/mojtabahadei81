@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mojtabahadei81
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning django
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: m.hadei.1122@gmail.com
 
