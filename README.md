@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mojtabahadei81
-- 👀 I’m interested in embeded systems
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in artificial intelligence
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: m.hadei.1122@gmail.com
+- 📫 How to reach me: m.hadei.1381@gmail.com
 
 <!---
 mojtabahadei81/mojtabahadei81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
